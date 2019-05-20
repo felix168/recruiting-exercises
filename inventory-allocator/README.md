@@ -1,4 +1,5 @@
-
+Run tests with command: 
+python TestInventoryAllocator.py -v
 
 ### Problem
 
